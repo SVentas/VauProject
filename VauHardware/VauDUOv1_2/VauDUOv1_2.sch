@@ -5325,7 +5325,7 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="C40" library="svBGC" deviceset="C_EU_" device="C0603G" value="10nF"/>
 <part name="GND42" library="supply1" deviceset="GND" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
-<part name="IC11" library="svBGC" deviceset="W25X" device="40BVSNIG" value="M25P16"/>
+<part name="IC11" library="svBGC" deviceset="W25X" device="40BVSNIG" value="M25P16VP"/>
 <part name="+3V8" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND43" library="supply1" deviceset="GND" device=""/>
 <part name="R24" library="svBGC" deviceset="R_EU_" device="R0603" value="10K"/>
