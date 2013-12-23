@@ -1,0 +1,20 @@
+<h1>VauTRIO - 3 axes <a href="http://en.wikipedia.org/wiki/Do_it_yourself">DIY</a>, <a href="http://en.wikipedia.org/wiki/Open-source_hardware">OSH</a> & <a href="http://en.wikipedia.org/wiki/Open-source_software">OSS</a> brushless gimbal controller</h1>
+<p><b>FEATURES</b>
+<ul>
+<li>3 stabilized axes;</li>
+<li>Dual N-channel MOSFETs driven by half-bridge drivers;</li>
+<li>I2C interface for IMU connection;</li>
+<li>4-channel RC input;</li>
+<li>3 analog ADC inputs + 1 input for battery voltage measurements;</li>
+<li>ARM Cortex M3/M4F microcontroller unit;</li>
+<li>Full speed USB2.0 interface;</li>
+<li>16Mb external flash;</li>
+<li>Buzzer output;</li>
+<li>SWD interface for debugging;</li>
+</ul></p>
+<p><b>VauTRIO to do list:</b>
+<ul>
+<li>Change +5V linear voltage regulator to +5V step-down DC-DC regulator;</li>
+<li>Calculate values of boost capacitors;</li>
+</ul>
+</p>
